@@ -1,7 +1,9 @@
 ## Oi! Eu sou a Julya✨
 
 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas - IBMR
+
 🎯 Focado em desenvolvimento backend e Python
+
 🚀 Buscando oportunidade de estágio
 
 ---
